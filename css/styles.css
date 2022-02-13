@@ -73,14 +73,14 @@ body { padding-top: 50px; }
            margin-top: 20px; }
 
 .img-rel-1 { width: 188px;
-             top: 50%;
-             left: 50%;
-             transform:translate(-50%,-50%);
+             right: 50px;
+             bottom: 50px;
              position: absolute; }
 
 .p-abs { width: 388px;
-         bottom: 100px;
-         left: 350px;
+         top: 50%;
+         left: 50%;
+         transform:translate(-50%,-50%);
          color: red;
          font-size: 78px;
          position: absolute;
