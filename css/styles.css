@@ -21,7 +21,7 @@ body { padding-top: 50px; }
            top: 0px;
            left: 130px;
            z-index: 99; }
-
+           
 .chat { position: fixed;
         right: 20px;
         bottom: 30px; }
