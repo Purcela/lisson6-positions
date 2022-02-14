@@ -14,12 +14,12 @@
 
 body { padding-top: 50px; }
 
-.header1 { background-color: gray;
+.header1 { width: 1088px;
+           background-color: gray;
            padding: 10px;
            position: fixed;
            top: 0px;
-           left: 0px;
-           width: 100%;
+           left: 130px;
            z-index: 99; }
 
 .chat { position: fixed;
